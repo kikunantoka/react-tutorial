@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1463598595493,
+        "author": "Pete Hunt",
+        "text": "This is one comment"
+    },
+    {
+        "id": 1463598595494,
+        "author": "Jordan Walke",
+        "text": "This is *another* comment"
+    },
+    {
+        "id": 1463598907631,
+        "author": "test",
+        "text": "hoge"
+    }
+]
